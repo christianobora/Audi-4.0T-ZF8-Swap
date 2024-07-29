@@ -18,7 +18,9 @@
 4. **Modify SOI Table.**
 5. **Modify Related Fueling Tables.**
 6. **Ready to Go!**
-   - Your car is now ready for the swap.
+   - Your car is now ready for the swap! 
+
+**Side Note: numerous other tuning changes may be required, but this is just the basics**
 
 ## Reasoning
 I have decided to open-source this guide due to the relative simplicity of performing this swap. While this process has been safeguarded for some time, I was able to figure it out through my own research and experimenting, so I decided to share it with others.
