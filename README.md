@@ -17,7 +17,8 @@
 3. **Code Out Sports Differential** (if needed).
 4. **Modify SOI Table.**
 5. **Modify Related Fueling Tables.**
-6. **Ready to Go!**
+6. **Set IMMO switch in ECU to 1.** 
+7. **Ready to Go!**
    - Your car is now ready for the swap! 
 
 **Side Note: numerous other tuning changes may be required, but this is just the basics**
@@ -38,3 +39,11 @@ Always consult with a professional mechanic or technician if you are unsure abou
 ---
 
 **I will not respond to any questions or inquiries for further assistance.**
+
+## Credits
+Shoutout a few people for helping me in making this possible. Firstly wanted to give thanks to **Boost** for encouraging me in figuring out the coding and allowing me to bounce ideas off of him. 
+Next I wanted to thank **[SleeperTuned](https://www.instagram.com/sleepertuned)** for being there when I was looking to experiment with the coding and handling the ECU side and being an overall good friend.
+
+
+
+
