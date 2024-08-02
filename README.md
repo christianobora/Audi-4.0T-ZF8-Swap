@@ -37,8 +37,7 @@ I, Christian Obora, am not responsible for any damages, malfunctions, or issues 
 Always consult with a professional mechanic or technician if you are unsure about any part of this procedure. This guide is intended to be a helpful resource, but it cannot cover every potential scenario or issue that may arise.
 
 ## Credits
-Shoutout a few people for helping me in making this possible. Firstly wanted to give thanks to **Boost** for encouraging me in figuring out the coding and allowing me to bounce ideas off of him. Next I wanted to thank Brent from [813garage](https://www.instagram.com/813garage) for assistance with the part numbers as well as performing the actual mechanical work for the swap. 
-Finally I wanted to thank **[SleeperTuned](https://www.instagram.com/sleepertuned)** for being there when I was looking to experiment with the coding and handling the ECU side and being an overall good friend.
+Shoutout to a few people for helping me make this possible. First, I want to thank **Boost** for encouraging me to figure out the coding and allowing me to bounce ideas off him. Next, I want to thank **Brent from [813garage](https://www.instagram.com/813garage)** for assisting with the part numbers and performing the actual mechanical work for the swap. Finally, I want to thank **[SleeperTuned](https://www.instagram.com/sleepertuned)** for being there when I was looking to experiment with the coding, handling the ECU side, and being an overall good friend.
 
 ---
 **I will not respond to any questions or inquiries for further assistance.**
