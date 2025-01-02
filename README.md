@@ -1,5 +1,9 @@
 # Audi 4.0T ZF8 Swap Guide
 
+> [!IMPORTANT]
+> Wanted to give a huge shoutout to **Boost** for performing the actual swap on his car, as well as creating a way more in-depth write-up.
+> Check it out [here](https://www.audizine.com/forum/showthread.php/998086-C7-S6-S7-DL501-to-ZF8-HP55-Swap-Guide)!
+
 ## What's Needed?
 - **A6 ZF8 Transmission**
 - **A6 Rear Differential** (OBC500044D)
